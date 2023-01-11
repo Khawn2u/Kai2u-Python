@@ -1,5 +1,3 @@
-# Kai2u-Python
-
 # Installation
 You will have to install CUDA Toolkit from https://developer.nvidia.com/cuda-10.1-download-archive-base
 
